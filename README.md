@@ -1,7 +1,6 @@
 
 ### It's Lunkann
 
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
 
 ----
 
@@ -11,11 +10,9 @@ A high schooler from India with a passion for full stack development.I love pyth
 
 Skills:
 
-- Web Develpment with React.js
-- Machine learning with Sckit-learn
-- API with FastAPI
-- Discord bots with dpy
-- Dockerizing Apps
+- Web Develpment HTML/CSS
+- Discord bots with discord.py
+- Python
 
 -----
 <a href="https://github.com/Lunkann">
