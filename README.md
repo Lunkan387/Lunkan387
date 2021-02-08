@@ -1,7 +1,7 @@
 
 ### It's Lunkann
 
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689) 
+![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
 
 ----
 
