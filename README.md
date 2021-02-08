@@ -4,7 +4,7 @@
 
 ----
 
-A high schooler from India with a passion for full stack development.I love python and Js seems to be my new love. 
+Learning Python
 
 -----
 
