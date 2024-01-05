@@ -1,18 +1,8 @@
 
-### It's Lunkan
+### Lunkan
 
 
 ----
-
-Learning Python
-
------
-
-Skills:
-
-- Web Develpment HTML/CSS
-- Discord bots with discord.py
-- Python
 
 -----
 <a href="https://github.com/Lunkann">
