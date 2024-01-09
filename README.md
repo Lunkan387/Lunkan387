@@ -6,20 +6,20 @@
 
 -----
 <a href="https://github.com/Lunkann">
-  <img src="https://komarev.com/ghpvc/?username=Lunkann&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Lunkan387&style=flat-square" />
 </a>
 
 
 ***
 
 <a href="https://github.com/Lunkann">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lunkann&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lunkan387&show_icons=true&hide_border=true" />
 </a>
 
 ---
 
 <a href="https://github.com/Lunkann">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunkann&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunkan387&layout=compact" />
 </a>
 
 
